@@ -1,3 +1,9 @@
+
+body {
+    max-width: 1024px;
+}
+
+
 /* contenitore logo style */
 .logo-container {
     background-image: url(../img/pattern.png);
