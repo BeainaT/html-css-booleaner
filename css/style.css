@@ -1,4 +1,3 @@
-
 body {
     max-width: 1024px;
 }
@@ -31,7 +30,10 @@ body {
     color: rgb(133, 133, 133);
 }
 
-figcaption {
+.img-description {
+    margin-top: 10px;
+}
+#didascalia {
     font-size: 12px;
     
 }
@@ -47,7 +49,7 @@ table {
     border-collapse: collapse;
 }
 
-
+/* resize terza colonna  */
 #resize-tab {
     width: 50%;
 }
@@ -57,7 +59,7 @@ table {
     color: white;
 }
 
-.lightblue {
+.row-lightblue {
     background-color: rgb(177, 229, 242);
 }
 
@@ -81,9 +83,8 @@ h3 {
     background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-
-
 }
+
 h4 {
     color: white;
     font-size: 24px;
