@@ -40,3 +40,21 @@ figcaption {
 ul {
     padding-left: 15px;
 }
+
+table {
+    width: 100%;
+    text-align: left;
+}
+
+#resize-tab {
+    width: 50%;
+}
+
+.th-row {
+    background-color: rgb(32, 169, 229);
+    color: white;
+}
+
+.lightblue {
+    background-color: rgb(177, 229, 242);
+}
