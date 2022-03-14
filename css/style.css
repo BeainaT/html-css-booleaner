@@ -35,3 +35,8 @@ figcaption {
     font-size: 12px;
     
 }
+
+/* cancella rientro lista  */
+ul {
+    padding-left: 15px;
+}
