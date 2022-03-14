@@ -63,4 +63,31 @@ table {
 
 h3 {
     color: rgb(133, 133, 133);
+    margin-bottom: 0;
+}
+
+.suggerimento1 {
+    width: 250px;
+    height: 150px;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.suggerimento2 {
+    width: 250px;
+    height: 150px;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+h4 {
+    color: white;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
 }
